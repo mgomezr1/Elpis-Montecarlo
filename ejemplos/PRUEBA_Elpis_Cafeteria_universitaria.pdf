@@ -1,0 +1,565 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /ExtGState /ca 0.075 /CA 0.075 >>
+endobj
+6 0 obj
+<< /Length 6904 >>
+stream
+q /GS1 gs 0.039 0.200 0.251 rg BT /F2 58 Tf 0.6114 0.7913 -0.7913 0.6114 145.40 204.52 Tm (USO ACADÉMICO) Tj ET Q
+q /GS1 gs 0.039 0.200 0.251 rg BT /F2 17 Tf 0.6114 0.7913 -0.7913 0.6114 235.58 249.27 Tm (ELPÍS  MARIO SERGIO GÓMEZ RUEDA) Tj ET Q
+0.039 0.200 0.251 rg 0.00 654.00 612.00 138.00 re f
+0.851 0.278 0.184 rg 54.00 753.00 5.00 5.00 re f
+1.000 0.784 0.341 rg 61.00 753.00 5.00 5.00 re f
+BT /F2 9 Tf 1.000 0.784 0.341 rg 74.00 752.50 Td (Elpís versión 1.0) Tj ET
+BT /F2 26 Tf 1.000 1.000 1.000 rg 54.00 716.00 Td (Informe ejecutivo) Tj ET
+BT /F1 12 Tf 0.839 0.933 0.953 rg 54.00 694.00 Td (Cafetería universitaria) Tj ET
+BT /F1 9 Tf 0.839 0.933 0.953 rg 54.00 676.00 Td (Simulación Monte Carlo con 10.000 iteraciones) Tj ET
+BT /F1 8.5 Tf 0.839 0.933 0.953 rg 406.80 676.00 Td (Fecha del cálculo: 1 de octubre de 2026) Tj ET
+0.984 0.878 0.855 rg 54.00 602.00 504.00 30.00 re f
+BT /F2 9 Tf 0.851 0.278 0.184 rg 66.00 613.00 Td (DATOS DE PRUEBA: modelo ficticio generado por Elpís para practicar. No describe un proyecto real.) Tj ET
+BT /F2 13 Tf 0.039 0.200 0.251 rg 54.00 569.00 Td (1. Recomendación) Tj ET
+0.725 0.498 0.000 rg 54.00 559.80 28.00 2.20 re f
+0.945 0.969 0.973 rg 54.00 502.00 504.00 48.00 re f
+0.788 0.400 0.102 rg 54.00 502.00 4.00 48.00 re f
+BT /F2 12 Tf 0.788 0.400 0.102 rg 70.00 530.00 Td (CREA VALOR CON RIESGO ALTO) Tj ET
+BT /F1 10 Tf 0.055 0.165 0.200 rg 70.00 512.00 Td (El VPN esperado es positivo, pero la probabilidad de VPN negativo \(14,35 %\) supera su límite de 10,00 %.) Tj ET
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 54.00 482.80 Td (Criterio: VPN esperado mayor que cero y probabilidad de VPN negativo no mayor que 10,00 %, límite fijado por el usuario.) Tj ET
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 54.00 469.46 Td (En el 90 % de los futuros simulados el VPN quedó entre -30.407.469 y 173.769.374 COP.) Tj ET
+0.039 0.200 0.251 rg 54.00 438.78 504.00 20.54 re f
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 58.60 446.92 Td (Indicador) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 533.89 446.92 Td (Valor) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 426.78 Td (VPN esperado) Tj ET
+BT /F2 8.4 Tf 0.055 0.165 0.200 rg 490.83 426.78 Td (66.764.339 COP) Tj ET
+0.945 0.969 0.973 rg 54.00 401.70 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 408.24 Td (Intervalo de confianza del 95 % de la media) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 459.99 408.24 Td (65.545.753 a 67.982.925) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 389.70 Td (Probabilidad de VPN negativo) Tj ET
+BT /F2 8.4 Tf 0.851 0.278 0.184 rg 522.58 389.70 Td (14,35 %) Tj ET
+0.945 0.969 0.973 rg 54.00 364.62 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 371.16 Td (VPN del escenario base \(valores centrales\)) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 511.37 371.16 Td (56.869.730) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 352.62 Td (TIR mediana) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 352.62 Td (27,43 %) Tj ET
+0.945 0.969 0.973 rg 54.00 327.54 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 334.08 Td (Tasa de descuento) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 334.08 Td (14,00 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 315.54 Td (Probabilidad de recuperar la inversión en el horizonte) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 315.54 Td (85,65 %) Tj ET
+0.827 0.886 0.902 RG 0.8 w 54.00 309.00 m 558.00 309.00 l S
+BT /F2 13 Tf 0.039 0.200 0.251 rg 54.00 276.00 Td (2. Distribución de los resultados) Tj ET
+0.725 0.498 0.000 rg 54.00 266.80 28.00 2.20 re f
+BT /F1 8.6 Tf 0.247 0.373 0.412 rg 54.00 248.40 Td (Histograma del VPN en COP. Cada barra agrupa futuros simulados con un VPN parecido.) Tj ET
+0.827 0.886 0.902 RG 0.4 w 94.00 173.53 m 558.00 173.53 l S
+BT /F1 6.8 Tf 0.478 0.592 0.624 rg 72.61 171.03 Td (2,7 %) Tj ET
+0.827 0.886 0.902 RG 0.4 w 94.00 238.53 m 558.00 238.53 l S
+BT /F1 6.8 Tf 0.478 0.592 0.624 rg 72.61 236.03 Td (5,4 %) Tj ET
+0.851 0.278 0.184 rg 94.50 108.53 11.89 19.16 re f
+0.851 0.278 0.184 rg 107.39 108.53 11.89 14.79 re f
+0.851 0.278 0.184 rg 120.28 108.53 11.89 25.71 re f
+0.851 0.278 0.184 rg 133.17 108.53 11.89 32.26 re f
+0.851 0.278 0.184 rg 146.06 108.53 11.89 38.32 re f
+0.851 0.278 0.184 rg 158.94 108.53 11.89 50.93 re f
+0.851 0.278 0.184 rg 171.83 108.53 11.89 61.36 re f
+0.851 0.278 0.184 rg 184.72 108.53 11.89 70.09 re f
+0.725 0.498 0.000 rg 197.61 108.53 11.89 79.55 re f
+0.725 0.498 0.000 rg 210.50 108.53 11.89 96.77 re f
+0.725 0.498 0.000 rg 223.39 108.53 11.89 105.50 re f
+0.725 0.498 0.000 rg 236.28 108.53 11.89 118.84 re f
+0.725 0.498 0.000 rg 249.17 108.53 11.89 123.21 re f
+0.725 0.498 0.000 rg 262.06 108.53 11.89 122.00 re f
+0.725 0.498 0.000 rg 274.94 108.53 11.89 125.88 re f
+0.725 0.498 0.000 rg 287.83 108.53 11.89 130.00 re f
+0.725 0.498 0.000 rg 300.72 108.53 11.89 118.12 re f
+0.725 0.498 0.000 rg 313.61 108.53 11.89 123.21 re f
+0.725 0.498 0.000 rg 326.50 108.53 11.89 114.48 re f
+0.725 0.498 0.000 rg 339.39 108.53 11.89 104.53 re f
+0.725 0.498 0.000 rg 352.28 108.53 11.89 101.38 re f
+0.725 0.498 0.000 rg 365.17 108.53 11.89 94.35 re f
+0.725 0.498 0.000 rg 378.06 108.53 11.89 88.28 re f
+0.725 0.498 0.000 rg 390.94 108.53 11.89 75.67 re f
+0.725 0.498 0.000 rg 403.83 108.53 11.89 66.46 re f
+0.725 0.498 0.000 rg 416.72 108.53 11.89 62.57 re f
+0.725 0.498 0.000 rg 429.61 108.53 11.89 56.03 re f
+0.725 0.498 0.000 rg 442.50 108.53 11.89 39.53 re f
+0.725 0.498 0.000 rg 455.39 108.53 11.89 38.81 re f
+0.725 0.498 0.000 rg 468.28 108.53 11.89 30.32 re f
+0.725 0.498 0.000 rg 481.17 108.53 11.89 23.28 re f
+0.725 0.498 0.000 rg 494.06 108.53 11.89 18.19 re f
+0.725 0.498 0.000 rg 506.94 108.53 11.89 15.04 re f
+0.725 0.498 0.000 rg 519.83 108.53 11.89 14.07 re f
+0.725 0.498 0.000 rg 532.72 108.53 11.89 8.49 re f
+0.725 0.498 0.000 rg 545.61 108.53 11.89 18.19 re f
+0.055 0.165 0.200 RG 0.8 w 202.84 238.53 m 202.84 108.53 l S
+BT /F2 7 Tf 0.055 0.165 0.200 rg 205.84 231.53 Td (0) Tj ET
+0.478 0.592 0.624 RG 0.6 w 94.00 108.53 m 558.00 108.53 l S
+BT /F1 6.8 Tf 0.478 0.592 0.624 rg 196.22 98.53 Td (0,00) Tj ET
+BT /F1 6.8 Tf 0.478 0.592 0.624 rg 347.08 98.53 Td (100 M) Tj ET
+BT /F1 6.8 Tf 0.478 0.592 0.624 rg 500.78 98.53 Td (200 M) Tj ET
+0.725 0.498 0.000 rg 94.00 84.53 10.00 5.00 re f
+BT /F1 7.6 Tf 0.247 0.373 0.412 rg 108.00 84.53 Td (VPN mayor o igual que cero) Tj ET
+0.851 0.278 0.184 rg 213.04 84.53 10.00 5.00 re f
+BT /F1 7.6 Tf 0.247 0.373 0.412 rg 227.04 84.53 Td (VPN negativo) Tj ET
+0.827 0.886 0.902 RG 0.7 w 54.00 48.00 m 558.00 48.00 l S
+BT /F2 7.4 Tf 0.247 0.373 0.412 rg 54.00 35.00 Td (Elpís versión 1.0 | Desarrollado por Mario Sergio Gómez Rueda | Uso académico | mgomezr1@gmail.com) Tj ET
+BT /F1 6.8 Tf 0.851 0.278 0.184 rg 54.00 24.00 Td (DATOS DE PRUEBA. Cualquier uso distinto del académico se regirá por el derecho de la propiedad intelectual.) Tj ET
+BT /F1 7.4 Tf 0.247 0.373 0.412 rg 512.33 35.00 Td (Página 1 de 5) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> /ExtGState << /GS1 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 10259 >>
+stream
+q /GS1 gs 0.039 0.200 0.251 rg BT /F2 58 Tf 0.6114 0.7913 -0.7913 0.6114 145.40 204.52 Tm (USO ACADÉMICO) Tj ET Q
+q /GS1 gs 0.039 0.200 0.251 rg BT /F2 17 Tf 0.6114 0.7913 -0.7913 0.6114 235.58 249.27 Tm (ELPÍS  MARIO SERGIO GÓMEZ RUEDA) Tj ET Q
+BT /F2 9.8 Tf 0.082 0.329 0.412 rg 54.00 726.00 Td (Tabla 1. Estadísticos de los indicadores) Tj ET
+0.039 0.200 0.251 rg 54.00 698.46 504.00 20.54 re f
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 58.60 706.60 Td (Estadístico) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 325.68 706.60 Td (VPN) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 434.99 706.60 Td (TIR) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 534.34 706.60 Td (TIRM) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 686.46 Td (Iteraciones con valor) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 316.03 686.46 Td (10.000) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 421.87 686.46 Td (10.000) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 527.71 686.46 Td (10.000) Tj ET
+0.945 0.969 0.973 rg 54.00 661.38 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 667.92 Td (Media) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 299.69 667.92 Td (66.764.339) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 416.74 667.92 Td (27,65 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 667.92 Td (21,12 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 649.38 Td (Desviación estándar) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 299.69 649.38 Td (62.172.755) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 416.74 649.38 Td (12,67 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 527.25 649.38 Td (6,63 %) Tj ET
+0.945 0.969 0.973 rg 54.00 624.30 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 630.84 Td (Error estándar de la media) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 311.36 630.84 Td (621.728) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 421.41 630.84 Td (0,13 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 527.25 630.84 Td (0,07 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 612.30 Td (Percentil 5) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 296.89 612.30 Td (-30.407.469) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 421.41 612.30 Td (6,93 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 527.25 612.30 Td (9,55 %) Tj ET
+0.945 0.969 0.973 rg 54.00 587.22 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 593.76 Td (Mediana) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 299.69 593.76 Td (63.293.549) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 416.74 593.76 Td (27,43 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 593.76 Td (21,47 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 575.22 Td (Percentil 95) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 295.02 575.22 Td (173.769.374) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 416.74 575.22 Td (48,63 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 575.22 Td (31,25 %) Tj ET
+0.945 0.969 0.973 rg 54.00 550.14 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 556.68 Td (Asimetría) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 320.70 556.68 Td (0,230) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 426.54 556.68 Td (0,032) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 529.59 556.68 Td (-0,375) Tj ET
+0.827 0.886 0.902 RG 0.8 w 54.00 550.14 m 558.00 550.14 l S
+BT /F2 9.8 Tf 0.082 0.329 0.412 rg 54.00 530.14 Td (Tabla 2. Flujo de caja libre por periodo) Tj ET
+0.039 0.200 0.251 rg 54.00 503.14 504.00 20.00 re f
+BT /F2 7.4 Tf 1.000 1.000 1.000 rg 58.60 511.14 Td (Periodo) Tj ET
+BT /F2 7.4 Tf 1.000 1.000 1.000 rg 181.59 511.14 Td (Escenario base) Tj ET
+BT /F2 7.4 Tf 1.000 1.000 1.000 rg 286.61 511.14 Td (Media simulada) Tj ET
+BT /F2 7.4 Tf 1.000 1.000 1.000 rg 410.13 511.14 Td (Percentil 5) Tj ET
+BT /F2 7.4 Tf 1.000 1.000 1.000 rg 511.86 511.14 Td (Percentil 95) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 58.60 491.54 Td (Año 0) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 188.74 491.54 Td (-165.600.000) Tj ET
+BT /F1 8 Tf 0.851 0.278 0.184 rg 294.58 491.54 Td (-169.267.466) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 400.42 491.54 Td (-187.797.655) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 506.26 491.54 Td (-152.514.184) Tj ET
+0.945 0.969 0.973 rg 54.00 467.14 504.00 18.00 re f
+BT /F1 8 Tf 0.055 0.165 0.200 rg 58.60 473.54 Td (Año 1) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 195.85 473.54 Td (57.132.000) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 301.69 473.54 Td (61.031.661) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 407.53 473.54 Td (31.359.078) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 513.37 473.54 Td (93.149.156) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 58.60 455.54 Td (Año 2) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 195.85 455.54 Td (57.836.960) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 301.69 455.54 Td (61.559.363) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 407.53 455.54 Td (31.042.228) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 513.37 455.54 Td (94.579.987) Tj ET
+0.945 0.969 0.973 rg 54.00 431.14 504.00 18.00 re f
+BT /F1 8 Tf 0.055 0.165 0.200 rg 58.60 437.54 Td (Año 3) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 195.85 437.54 Td (58.534.469) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 301.69 437.54 Td (62.316.225) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 407.53 437.54 Td (31.385.407) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 513.37 437.54 Td (95.867.058) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 58.60 419.54 Td (Año 4) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 195.85 419.54 Td (59.223.159) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 301.69 419.54 Td (63.341.327) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 407.53 419.54 Td (31.574.016) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 513.37 419.54 Td (98.023.172) Tj ET
+0.945 0.969 0.973 rg 54.00 395.14 504.00 18.00 re f
+BT /F1 8 Tf 0.055 0.165 0.200 rg 58.60 401.54 Td (Año 5) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 191.40 401.54 Td (102.578.992) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 297.24 401.54 Td (106.980.850) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 407.53 401.54 Td (69.164.065) Tj ET
+BT /F1 8 Tf 0.055 0.165 0.200 rg 508.92 401.54 Td (147.877.802) Tj ET
+0.827 0.886 0.902 RG 0.8 w 54.00 395.14 m 558.00 395.14 l S
+BT /F2 13 Tf 0.039 0.200 0.251 rg 54.00 362.14 Td (3. Estructura del modelo) Tj ET
+0.725 0.498 0.000 rg 54.00 352.94 28.00 2.20 re f
+0.039 0.200 0.251 rg 54.00 322.60 504.00 20.54 re f
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 58.60 330.74 Td (Supuesto) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 310.60 330.74 Td (Valor) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 310.60 Td (Horizonte) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 310.60 310.60 Td (5 periodos, periodicidad anual) Tj ET
+0.945 0.969 0.973 rg 54.00 285.52 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 292.06 Td (Tasa de descuento) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 310.60 292.06 Td (Directa: 14,00 % EA) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 273.52 Td (Impuesto) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 310.60 273.52 Td (35,00 %, con escudo fiscal de las pérdidas) Tj ET
+0.945 0.969 0.973 rg 54.00 248.44 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 254.98 Td (Capital de trabajo) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 310.60 254.98 Td (8,00 % de los ingresos del periodo siguiente, recuperado en N) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 236.44 Td (Iteraciones y semilla) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 310.60 236.44 Td (10.000 con semilla 2026) Tj ET
+0.945 0.969 0.973 rg 54.00 211.36 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 217.90 Td (Correlación) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 310.60 217.90 Td (Variables independientes) Tj ET
+0.827 0.886 0.902 RG 0.8 w 54.00 211.36 m 558.00 211.36 l S
+BT /F2 9.8 Tf 0.082 0.329 0.412 rg 54.00 191.36 Td (Tabla 3. Variables generadoras) Tj ET
+0.039 0.200 0.251 rg 54.00 164.63 504.00 19.73 re f
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 58.60 172.56 Td (Variable) Tj ET
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 169.48 172.56 Td (Distribución) Tj ET
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 235.00 172.56 Td (Parámetros) Tj ET
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 401.32 172.56 Td (Muestreo) Tj ET
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 471.88 172.56 Td (Crecimiento) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 153.23 Td (Precio promedio por cliente) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 142.70 Td (\(COP\)) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 169.48 153.23 Td (Triangular) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 235.00 153.23 Td (7.000; 8.000; 9.500) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 401.32 153.23 Td (Por iteración) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 471.88 153.23 Td (Ninguno) Tj ET
+0.945 0.969 0.973 rg 54.00 118.64 504.00 17.73 re f
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 124.97 Td (Clientes por año \(clientes\)) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 169.48 124.97 Td (PERT) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 235.00 124.97 Td (30.000; 40.000; 48.000) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 401.32 124.97 Td (Por iteración) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 471.88 124.97 Td (3,00 %) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 107.24 Td (Costo variable por cliente) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 96.71 Td (\(COP\)) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 169.48 107.24 Td (Uniforme) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 235.00 107.24 Td (3.000 a 3.800) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 401.32 107.24 Td (Por periodo) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 471.88 107.24 Td (Ninguno) Tj ET
+0.945 0.969 0.973 rg 54.00 72.65 504.00 17.73 re f
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 78.98 Td (Costos fijos anuales \(COP\)) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 169.48 78.98 Td (Normal) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 235.00 78.98 Td (media 110.000.000; desviación 8.000.000) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 401.32 78.98 Td (Por periodo) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 471.88 78.98 Td (4,00 %) Tj ET
+0.827 0.886 0.902 RG 0.7 w 54.00 48.00 m 558.00 48.00 l S
+BT /F2 7.4 Tf 0.247 0.373 0.412 rg 54.00 35.00 Td (Elpís versión 1.0 | Desarrollado por Mario Sergio Gómez Rueda | Uso académico | mgomezr1@gmail.com) Tj ET
+BT /F1 6.8 Tf 0.851 0.278 0.184 rg 54.00 24.00 Td (DATOS DE PRUEBA. Cualquier uso distinto del académico se regirá por el derecho de la propiedad intelectual.) Tj ET
+BT /F1 7.4 Tf 0.247 0.373 0.412 rg 512.33 35.00 Td (Página 2 de 5) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> /ExtGState << /GS1 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 9127 >>
+stream
+q /GS1 gs 0.039 0.200 0.251 rg BT /F2 58 Tf 0.6114 0.7913 -0.7913 0.6114 145.40 204.52 Tm (USO ACADÉMICO) Tj ET Q
+q /GS1 gs 0.039 0.200 0.251 rg BT /F2 17 Tf 0.6114 0.7913 -0.7913 0.6114 235.58 249.27 Tm (ELPÍS  MARIO SERGIO GÓMEZ RUEDA) Tj ET Q
+0.039 0.200 0.251 rg 54.00 716.27 504.00 19.73 re f
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 58.60 724.20 Td (Variable) Tj ET
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 169.48 724.20 Td (Distribución) Tj ET
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 235.00 724.20 Td (Parámetros) Tj ET
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 401.32 724.20 Td (Muestreo) Tj ET
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 471.88 724.20 Td (Crecimiento) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 704.87 Td (Adecuación y equipos \(COP\)) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 169.48 704.87 Td (Triangular) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 235.00 704.87 Td (120.000.000; 140.000.000; 170.000.000) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 401.32 704.87 Td (Por iteración) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 471.88 704.87 Td (Ninguno) Tj ET
+0.945 0.969 0.973 rg 54.00 680.81 504.00 17.73 re f
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 687.14 Td (Valor de rescate \(COP\)) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 169.48 687.14 Td (Fija) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 235.00 687.14 Td (20.000.000) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 401.32 687.14 Td (Fija) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 471.88 687.14 Td (Ninguno) Tj ET
+0.827 0.886 0.902 RG 0.8 w 54.00 680.81 m 558.00 680.81 l S
+BT /F2 9.8 Tf 0.082 0.329 0.412 rg 54.00 660.81 Td (Tabla 4. Líneas del flujo de caja libre) Tj ET
+0.039 0.200 0.251 rg 54.00 634.08 504.00 19.73 re f
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 58.60 642.01 Td (Línea) Tj ET
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 189.64 642.01 Td (Categoría) Tj ET
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 290.44 642.01 Td (Cálculo) Tj ET
+BT /F2 7.2 Tf 1.000 1.000 1.000 rg 461.80 642.01 Td (Periodos) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 622.68 Td (Ventas) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 189.64 622.68 Td (Ingreso) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 290.44 622.68 Td (Precio promedio por cliente × Clientes por año) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 461.80 622.68 Td (1 a 5) Tj ET
+0.945 0.969 0.973 rg 54.00 598.62 504.00 17.73 re f
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 604.95 Td (Costo de ventas) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 189.64 604.95 Td (Costo variable) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 290.44 604.95 Td (Costo variable por cliente × Clientes por año) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 461.80 604.95 Td (1 a 5) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 587.22 Td (Costos fijos) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 189.64 587.22 Td (Costo fijo) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 290.44 587.22 Td (Costos fijos anuales) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 461.80 587.22 Td (1 a 5) Tj ET
+0.945 0.969 0.973 rg 54.00 563.16 504.00 17.73 re f
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 569.49 Td (Adecuación y equipos) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 189.64 569.49 Td (Inversión \(CAPEX\)) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 290.44 569.49 Td (Adecuación y equipos) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 461.80 569.49 Td (Periodo 0, vida 5) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 58.60 551.76 Td (Venta de equipos) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 189.64 551.76 Td (Valor de rescate) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 290.44 551.76 Td (Valor de rescate) Tj ET
+BT /F1 7.8 Tf 0.055 0.165 0.200 rg 461.80 551.76 Td (Periodo 5) Tj ET
+0.827 0.886 0.902 RG 0.8 w 54.00 545.43 m 558.00 545.43 l S
+BT /F2 13 Tf 0.039 0.200 0.251 rg 54.00 512.43 Td (4. Calidad de la simulación) Tj ET
+0.725 0.498 0.000 rg 54.00 503.23 28.00 2.20 re f
+0.725 0.498 0.000 rg 56.00 486.09 3.20 3.20 re f
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 484.23 Td (El error estándar del VPN esperado es 621.728 COP \(0,93 % de la media\). El de la probabilidad de pérdida es 0,35 %.) Tj ET
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 470.89 Td (Para reducirlos a la mitad se necesitan cuatro veces más iteraciones.) Tj ET
+0.725 0.498 0.000 rg 56.00 456.41 3.20 3.20 re f
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 454.55 Td (Las pruebas automáticas de Elpís verifican los momentos de las distribuciones, el VPN, la TIR y la TIRM contra valores) Tj ET
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 441.21 Td (conocidos y un modelo lineal con distribución exacta.) Tj ET
+BT /F2 13 Tf 0.039 0.200 0.251 rg 54.00 411.07 Td (5. Robustez: ¿qué tendría que cambiar?) Tj ET
+0.725 0.498 0.000 rg 54.00 401.87 28.00 2.20 re f
+0.725 0.498 0.000 rg 56.00 384.73 3.20 3.20 re f
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 382.87 Td (El VPN esperado se vuelve cero con una tasa anual de 28,12 % \(la tasa actual es 14,00 %\).) Tj ET
+0.725 0.498 0.000 rg 56.00 368.39 3.20 3.20 re f
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 366.53 Td (La probabilidad de VPN negativo se mantiene en su límite de 10,00 % o por debajo con 11,22 % anual como máximo.) Tj ET
+0.725 0.498 0.000 rg 56.00 352.05 3.20 3.20 re f
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 350.19 Td (Con el criterio actual el proyecto se aceptaría si usted tolerara una probabilidad de pérdida de 14,35 % o reduciera la) Tj ET
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 336.85 Td (incertidumbre de las variables que más pesan.) Tj ET
+0.725 0.498 0.000 rg 56.00 322.37 3.20 3.20 re f
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 320.51 Td (La variable más cercana a cambiar el signo del VPN base es «Precio promedio por cliente»: basta un cambio de -7,69) Tj ET
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 307.17 Td (% sobre su valor central.) Tj ET
+0.725 0.498 0.000 rg 56.00 292.69 3.20 3.20 re f
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 290.83 Td (La variable que más explica la variación del VPN es «Precio promedio por cliente», con el 58,97 % de la contribución.) Tj ET
+BT /F1 9.2 Tf 0.055 0.165 0.200 rg 68.00 277.49 Td (Reducir su incertidumbre es lo que más estrecharía la distribución.) Tj ET
+BT /F2 9.8 Tf 0.082 0.329 0.412 rg 54.00 260.35 Td (Tabla 5. Variables que más influyen en el VPN) Tj ET
+0.039 0.200 0.251 rg 54.00 221.47 504.00 31.88 re f
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 58.60 240.95 Td (Variable) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 226.62 240.95 Td (Correlación de) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 255.23 229.61 Td (rangos) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 290.44 240.95 Td (Dirección) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 504.87 240.95 Td (Contribución) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 209.47 Td (Precio promedio por cliente) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 260.22 209.47 Td (0,753) Tj ET
+0.894 0.933 0.941 rg 290.44 209.20 152.08 6.00 re f
+0.725 0.498 0.000 rg 366.48 209.20 57.23 6.00 re f
+0.478 0.592 0.624 RG 0.5 w 366.48 217.20 m 366.48 207.20 l S
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 209.47 Td (58,97 %) Tj ET
+0.945 0.969 0.973 rg 54.00 184.39 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 190.93 Td (Clientes por año) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 260.22 190.93 Td (0,582) Tj ET
+0.894 0.933 0.941 rg 290.44 190.66 152.08 6.00 re f
+0.725 0.498 0.000 rg 366.48 190.66 44.27 6.00 re f
+0.478 0.592 0.624 RG 0.5 w 366.48 198.66 m 366.48 188.66 l S
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 190.93 Td (35,29 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 172.39 Td (Costo variable por cliente) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 257.43 172.39 Td (-0,145) Tj ET
+0.894 0.933 0.941 rg 290.44 172.12 152.08 6.00 re f
+0.851 0.278 0.184 rg 355.45 172.12 11.03 6.00 re f
+0.478 0.592 0.624 RG 0.5 w 366.48 180.12 m 366.48 170.12 l S
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 527.25 172.39 Td (2,19 %) Tj ET
+0.945 0.969 0.973 rg 54.00 147.31 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 153.85 Td (Adecuación y equipos) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 257.43 153.85 Td (-0,143) Tj ET
+0.894 0.933 0.941 rg 290.44 153.58 152.08 6.00 re f
+0.851 0.278 0.184 rg 355.62 153.58 10.86 6.00 re f
+0.478 0.592 0.624 RG 0.5 w 366.48 161.58 m 366.48 151.58 l S
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 527.25 153.85 Td (2,13 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 135.31 Td (Costos fijos anuales) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 257.43 135.31 Td (-0,117) Tj ET
+0.894 0.933 0.941 rg 290.44 135.04 152.08 6.00 re f
+0.851 0.278 0.184 rg 357.60 135.04 8.88 6.00 re f
+0.478 0.592 0.624 RG 0.5 w 366.48 143.04 m 366.48 133.04 l S
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 527.25 135.31 Td (1,42 %) Tj ET
+0.827 0.886 0.902 RG 0.8 w 54.00 128.77 m 558.00 128.77 l S
+0.827 0.886 0.902 RG 0.7 w 54.00 48.00 m 558.00 48.00 l S
+BT /F2 7.4 Tf 0.247 0.373 0.412 rg 54.00 35.00 Td (Elpís versión 1.0 | Desarrollado por Mario Sergio Gómez Rueda | Uso académico | mgomezr1@gmail.com) Tj ET
+BT /F1 6.8 Tf 0.851 0.278 0.184 rg 54.00 24.00 Td (DATOS DE PRUEBA. Cualquier uso distinto del académico se regirá por el derecho de la propiedad intelectual.) Tj ET
+BT /F1 7.4 Tf 0.247 0.373 0.412 rg 512.33 35.00 Td (Página 3 de 5) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> /ExtGState << /GS1 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 9344 >>
+stream
+q /GS1 gs 0.039 0.200 0.251 rg BT /F2 58 Tf 0.6114 0.7913 -0.7913 0.6114 145.40 204.52 Tm (USO ACADÉMICO) Tj ET Q
+q /GS1 gs 0.039 0.200 0.251 rg BT /F2 17 Tf 0.6114 0.7913 -0.7913 0.6114 235.58 249.27 Tm (ELPÍS  MARIO SERGIO GÓMEZ RUEDA) Tj ET Q
+BT /F2 9.8 Tf 0.082 0.329 0.412 rg 54.00 726.00 Td (Tabla 6. Puntos de equilibrio del escenario base) Tj ET
+0.039 0.200 0.251 rg 54.00 698.46 504.00 20.54 re f
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 58.60 706.60 Td (Variable) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 284.39 706.60 Td (Valor central) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 374.46 706.60 Td (Valor de equilibrio) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 486.21 706.60 Td (Cambio necesario) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 686.46 Td (Precio promedio por cliente) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 310.62 686.46 Td (8.000) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 421.50 686.46 Td (7.385) Tj ET
+BT /F2 8.4 Tf 0.851 0.278 0.184 rg 524.45 686.46 Td (-7,69 %) Tj ET
+0.945 0.969 0.973 rg 54.00 661.38 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 667.92 Td (Clientes por año) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 305.95 667.92 Td (40.000) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 416.83 667.92 Td (34.580) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 519.78 667.92 Td (-13,55 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 649.38 Td (Costo variable por cliente) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 310.62 649.38 Td (3.400) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 421.50 649.38 Td (4.005) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 517.67 649.38 Td (+17,78 %) Tj ET
+0.945 0.969 0.973 rg 54.00 624.30 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 630.84 Td (Costos fijos anuales) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 284.94 630.84 Td (110.000.000) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 395.82 630.84 Td (133.767.956) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 517.67 630.84 Td (+21,61 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 612.30 Td (Adecuación y equipos) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 284.94 612.30 Td (140.000.000) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 395.82 612.30 Td (214.859.685) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 517.67 612.30 Td (+53,47 %) Tj ET
+0.945 0.969 0.973 rg 54.00 587.22 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 58.60 593.76 Td (Valor de rescate) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 289.61 593.76 Td (20.000.000) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 407.51 593.76 Td (No existe) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 469.82 593.76 Td (Fuera de 0 % a 500 %) Tj ET
+0.827 0.886 0.902 RG 0.8 w 54.00 587.22 m 558.00 587.22 l S
+BT /F2 9.8 Tf 0.082 0.329 0.412 rg 54.00 567.22 Td (Tabla 7. Efecto de la tasa de descuento anual) Tj ET
+0.039 0.200 0.251 rg 54.00 539.68 504.00 20.54 re f
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 129.07 547.82 Td (Tasa efectiva anual) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 324.12 547.82 Td (VPN esperado) Tj ET
+BT /F2 7.800000000000001 Tf 1.000 1.000 1.000 rg 442.44 547.82 Td (Probabilidad de VPN negativo) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 174.45 527.68 Td (0,00 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 330.30 527.68 Td (185.961.961) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 527.25 527.68 Td (1,04 %) Tj ET
+0.945 0.969 0.973 rg 54.00 502.60 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 174.45 509.14 Td (3,50 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 330.30 509.14 Td (148.645.624) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 527.25 509.14 Td (2,72 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 174.45 490.60 Td (7,00 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 330.30 490.60 Td (117.007.067) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 527.25 490.60 Td (5,13 %) Tj ET
+0.945 0.969 0.973 rg 54.00 465.52 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 169.78 472.06 Td (10,50 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 334.97 472.06 Td (89.989.965) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 527.25 472.06 Td (9,04 %) Tj ET
+BT /F2 8.4 Tf 0.055 0.165 0.200 rg 137.57 453.52 Td (14,00 % \(actual\)) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 334.97 453.52 Td (66.764.339) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 453.52 Td (14,35 %) Tj ET
+0.945 0.969 0.973 rg 54.00 428.44 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 169.78 434.98 Td (17,50 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 334.97 434.98 Td (46.672.409) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 434.98 Td (21,53 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 169.78 416.44 Td (21,00 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 334.97 416.44 Td (29.188.627) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 416.44 Td (30,72 %) Tj ET
+0.945 0.969 0.973 rg 54.00 391.36 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 169.78 397.90 Td (24,50 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 334.97 397.90 Td (13.889.881) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 397.90 Td (41,07 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 169.78 379.36 Td (28,00 %) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 346.64 379.36 Td (433.073) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 379.36 Td (51,68 %) Tj ET
+0.945 0.969 0.973 rg 54.00 354.28 504.00 18.54 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 169.78 360.82 Td (35,00 %) Tj ET
+BT /F1 8.4 Tf 0.851 0.278 0.184 rg 332.17 360.82 Td (-22.025.226) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 522.58 360.82 Td (71,36 %) Tj ET
+0.827 0.886 0.902 RG 0.8 w 54.00 354.28 m 558.00 354.28 l S
+BT /F2 13 Tf 0.039 0.200 0.251 rg 54.00 321.28 Td (6. Nota metodológica y referencias) Tj ET
+0.725 0.498 0.000 rg 54.00 312.08 28.00 2.20 re f
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 54.00 293.88 Td (Simulación Monte Carlo \(Metropolis y Ulam, 1949\) aplicada a la evaluación de inversiones según Hertz \(1964\). Cada variable incierta) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 54.00 281.70 Td (se muestrea por inversión de su distribución con el generador xoshiro128** \(Blackman y Vigna, 2021\) y una semilla reproducible. La) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 54.00 269.52 Td (PERT usa lambda 4 \(Malcolm et al., 1959\); la inversa de la normal es el algoritmo AS 241 \(Wichura, 1988\) y la de la beta usa la) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 54.00 257.34 Td (fracción continua de Press et al. \(2007\).) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 54.00 241.16 Td (La correlación de rangos se induce con una cópula gaussiana: rho normal = 2 sen\(pi rho Spearman / 6\) \(Kruskal, 1958\), en la línea de) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 54.00 228.98 Td (Iman y Conover \(1982\). Si la matriz no es definida positiva se reemplaza por la válida más cercana \(Higham, 2002\).) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 54.00 212.80 Td (El flujo de caja libre suma al NOPAT la depreciación y el rescate neto, y le resta el CAPEX y la variación del capital de trabajo. VPN) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 54.00 200.62 Td (con la tasa por periodo equivalente a la tasa efectiva anual; TIRM con financiamiento y reinversión a esa misma tasa \(Brealey et al.,) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 54.00 188.44 Td (2020\). La sensibilidad usa la correlación de rangos entre cada variable y el VPN \(Vose, 2008\).) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 54.00 172.26 Td (Los resultados describen el proyecto bajo los supuestos ingresados por el usuario. Apoyan la decisión; no sustituyen el criterio) Tj ET
+BT /F1 8.4 Tf 0.055 0.165 0.200 rg 54.00 160.08 Td (profesional.) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 145.10 Td (Blackman, D., & Vigna, S. \(2021\). Scaled linear pseudorandom number generators. ACM Transactions on Mathematical Software, 47\(4\), Article 36.) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 135.74 Td (https://doi.org/10.1145/3460772) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 125.38 Td (Brealey, R. A., Myers, S. C., & Allen, F. \(2020\). Principles of corporate finance \(13th ed.\). McGraw-Hill Education.) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 115.02 Td (Glasserman, P. \(2003\). Monte Carlo methods in financial engineering. Springer. https://doi.org/10.1007/978-0-387-21617-1) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 104.66 Td (Hertz, D. B. \(1964\). Risk analysis in capital investment. Harvard Business Review, 42\(1\), 95–106.) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 94.30 Td (Higham, N. J. \(2002\). Computing the nearest correlation matrix: A problem from finance. IMA Journal of Numerical Analysis, 22\(3\), 329–343.) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 84.94 Td (https://doi.org/10.1093/imanum/22.3.329) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 74.58 Td (Iman, R. L., & Conover, W. J. \(1982\). A distribution-free approach to inducing rank correlation among input variables. Communications in Statistics: Simulation) Tj ET
+0.827 0.886 0.902 RG 0.7 w 54.00 48.00 m 558.00 48.00 l S
+BT /F2 7.4 Tf 0.247 0.373 0.412 rg 54.00 35.00 Td (Elpís versión 1.0 | Desarrollado por Mario Sergio Gómez Rueda | Uso académico | mgomezr1@gmail.com) Tj ET
+BT /F1 6.8 Tf 0.851 0.278 0.184 rg 54.00 24.00 Td (DATOS DE PRUEBA. Cualquier uso distinto del académico se regirá por el derecho de la propiedad intelectual.) Tj ET
+BT /F1 7.4 Tf 0.247 0.373 0.412 rg 512.33 35.00 Td (Página 4 de 5) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> /ExtGState << /GS1 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3121 >>
+stream
+q /GS1 gs 0.039 0.200 0.251 rg BT /F2 58 Tf 0.6114 0.7913 -0.7913 0.6114 145.40 204.52 Tm (USO ACADÉMICO) Tj ET Q
+q /GS1 gs 0.039 0.200 0.251 rg BT /F2 17 Tf 0.6114 0.7913 -0.7913 0.6114 235.58 249.27 Tm (ELPÍS  MARIO SERGIO GÓMEZ RUEDA) Tj ET Q
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 728.80 Td (and Computation, 11\(3\), 311–334. https://doi.org/10.1080/03610918208812265) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 718.44 Td (Kruskal, W. H. \(1958\). Ordinal measures of association. Journal of the American Statistical Association, 53\(284\), 814–861.) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 709.08 Td (https://doi.org/10.1080/01621459.1958.10501481) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 698.72 Td (Law, A. M. \(2015\). Simulation modeling and analysis \(5th ed.\). McGraw-Hill Education.) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 688.36 Td (Malcolm, D. G., Roseboom, J. H., Clark, C. E., & Fazar, W. \(1959\). Application of a technique for research and development program evaluation. Operations) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 679.00 Td (Research, 7\(5\), 646–669. https://doi.org/10.1287/opre.7.5.646) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 668.64 Td (Metropolis, N., & Ulam, S. \(1949\). The Monte Carlo method. Journal of the American Statistical Association, 44\(247\), 335–341.) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 659.28 Td (https://doi.org/10.1080/01621459.1949.10483310) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 648.92 Td (Press, W. H., Teukolsky, S. A., Vetterling, W. T., & Flannery, B. P. \(2007\). Numerical recipes: The art of scientific computing \(3rd ed.\). Cambridge University) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 639.56 Td (Press.) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 629.20 Td (Vose, D. \(2008\). Risk analysis: A quantitative guide \(3rd ed.\). Wiley.) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 618.84 Td (Wichura, M. J. \(1988\). Algorithm AS 241: The percentage points of the normal distribution. Journal of the Royal Statistical Society. Series C \(Applied) Tj ET
+BT /F1 7.2 Tf 0.247 0.373 0.412 rg 54.00 609.48 Td (Statistics\), 37\(3\), 477–484. https://doi.org/10.2307/2347330) Tj ET
+0.945 0.969 0.973 rg 54.00 541.32 504.00 55.00 re f
+BT /F2 8.6 Tf 0.039 0.200 0.251 rg 68.00 579.32 Td (Autoría y uso) Tj ET
+BT /F1 8.6 Tf 0.055 0.165 0.200 rg 68.00 565.32 Td (Este aplicativo fue desarrollado por Mario Sergio Gómez Rueda. Su uso es de carácter académico y cualquier otro uso se) Tj ET
+BT /F1 8.6 Tf 0.055 0.165 0.200 rg 68.00 552.82 Td (regirá por el derecho de la propiedad intelectual. Sugerencias o dudas: mgomezr1@gmail.com) Tj ET
+0.827 0.886 0.902 RG 0.7 w 54.00 48.00 m 558.00 48.00 l S
+BT /F2 7.4 Tf 0.247 0.373 0.412 rg 54.00 35.00 Td (Elpís versión 1.0 | Desarrollado por Mario Sergio Gómez Rueda | Uso académico | mgomezr1@gmail.com) Tj ET
+BT /F1 6.8 Tf 0.851 0.278 0.184 rg 54.00 24.00 Td (DATOS DE PRUEBA. Cualquier uso distinto del académico se regirá por el derecho de la propiedad intelectual.) Tj ET
+BT /F1 7.4 Tf 0.247 0.373 0.412 rg 512.33 35.00 Td (Página 5 de 5) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> /ExtGState << /GS1 5 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Title (Informe ejecutivo Elpís: Cafetería universitaria) /Author (Mario Sergio Gómez Rueda) /Subject (Simulación Monte Carlo para evaluar proyectos) /Creator (Elpís 1.0) /Producer (Elpís) /CreationDate (D:20261001054116) >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000148 00000 n 
+0000000245 00000 n 
+0000000347 00000 n 
+0000000405 00000 n 
+0000007361 00000 n 
+0000007525 00000 n 
+0000017837 00000 n 
+0000018001 00000 n 
+0000027181 00000 n 
+0000027347 00000 n 
+0000036744 00000 n 
+0000036910 00000 n 
+0000040084 00000 n 
+0000040250 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R /Info 16 0 R >>
+startxref
+40494
+%%EOF

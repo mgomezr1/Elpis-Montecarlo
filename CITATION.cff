@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usa este aplicativo en trabajos académicos, cítelo así."
+title: "Elpís: Simulación Monte Carlo para evaluar proyectos de inversión"
+version: "1.0"
+date-released: 2026-10-01
+type: software
+authors:
+  - family-names: "Gómez Rueda"
+    given-names: "Mario Sergio"
+    email: "mgomezr1@gmail.com"
+url: "https://mgomezr1.github.io/elpis/"
+repository-code: "https://github.com/mgomezr1/elpis"
+keywords:
+  - "simulación Monte Carlo"
+  - "evaluación de proyectos"
+  - "flujo de caja libre"
+  - "VPN"
+  - "análisis de riesgo"
+license-url: "https://github.com/mgomezr1/elpis/blob/main/LICENSE.md"
