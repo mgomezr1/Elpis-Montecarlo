@@ -2,7 +2,7 @@
 
 Aplicación web académica de **simulación Monte Carlo para evaluar proyectos de inversión**: construya el flujo de caja libre con variables inciertas, simule miles de futuros posibles y obtenga la distribución del VPN, la TIR y la TIRM, la probabilidad de que el proyecto destruya valor y qué tendría que cambiar para que la recomendación fuera otra.
 
-**Abrir la aplicación:** https://mgomezr1.github.io/elpis/
+**Abrir la aplicación:** https://mgomezr1.github.io/Elpis-Montecarlo/
 
 No requiere instalación ni registro. Funciona en cualquier navegador moderno, en computador, tableta o teléfono.
 
